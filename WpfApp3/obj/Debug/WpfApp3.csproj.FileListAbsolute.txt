@@ -1,0 +1,57 @@
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\EntityFramework.dll
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\EntityFramework.xml
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\EditWindow.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\EditWindow.baml
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\AddWindow.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\DeleteWindow.g.cs
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\AddWindow.baml
+C:\Users\Егор\source\repos\WpfApp3\WpfApp3\obj\Debug\DeleteWindow.baml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\AddWindow.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\DeleteWindow.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\EditWindow.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\AddWindow.baml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\DeleteWindow.baml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\EditWindow.baml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.csproj.CopyComplete
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Сергей\Desktop\ПП.12.01 Коммерческие аспекты разработки — копия\wpf\WpfApp3\obj\Debug\WpfApp3.pdb
